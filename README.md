@@ -4,8 +4,10 @@ My ultimate resources for development usage.
 ## HTML
 
 https://validator.w3.org/ <br />
-image-map.weebly.com <br />
-https://www.imgonline.com.ua/eng/cut-photo-into-pieces.php
+https://image-map.weebly.com <br />
+https://www.imgonline.com.ua/eng/cut-photo-into-pieces.php <br />
+- [fontpair](https://www.fontpair.co/)
+https://www.pagecloud.com/blog/best-google-fonts-pairings
 
 # CSS
 
