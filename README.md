@@ -100,3 +100,7 @@
 - [caniuse](https://caniuse.com/)
 - [time travel](https://web.archive.org/)
 - [ipregistry](https://ipregistry.co/)
+- [virustotal](https://www.virustotal.com/gui/)
+- [sound and vocal seperator](https://www.lalal.ai/)
+- [vocalremover](https://vocalremover.org/)
+- [social name checker](https://namechk.com/)
