@@ -47,6 +47,10 @@ My ultimate resources for development usage.
 - [videezy](https://www.videezy.com/)
 - [icons8 illustrations](https://icons8.com/illustrations)
 
+## colors
+
+- [coolors](https://coolors.co/)
+- [happyhues](https://www.happyhues.co/)
 
 ## UI tools
 
