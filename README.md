@@ -82,6 +82,7 @@
 ## Converters
 - [jpeg to webp converter](https://convertio.co/jpeg-webp/)
 - [decimal to binary](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
+- [convert image to txt](https://www.onlineocr.net/)
 
 ## Logo Design Resources
 - [logoed](http://www.logoed.co.uk/)
