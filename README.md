@@ -62,6 +62,6 @@ My ultimate resources for development usage.
 - [profile maker](https://pfpmaker.com/results)
 
 
-# Converters
+## Converters
 - [jpeg to webp converter](https://convertio.co/jpeg-webp/)
 - [decimal to binary](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
