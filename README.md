@@ -3,6 +3,7 @@
 ## HTML
 
 - [html validation](https://validator.w3.org/)
+- [htmlcheatsheet](https://htmlcheatsheet.com/)
 - [imagemap](https://image-map.weebly.com)
 - [image cutter](https://www.imgonline.com.ua/eng/cut-photo-into-pieces.php)
 - [fontpair](https://www.fontpair.co/)
@@ -75,3 +76,7 @@
 - [logogala](http://www.logogala.com/)
 - [logopond](https://logopond.com/)
 - [logospire](https://logospire.com/)
+
+## miscellaneous
+
+- [caniuse](https://caniuse.com/)
