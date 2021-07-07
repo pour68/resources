@@ -22,3 +22,11 @@ https://www.drawkit.io/ <br />
 https://products.ls.graphics/paaatterns/ <br />
 https://www.freepik.com/ <br />
 https://www.videezy.com/ <br />
+
+## UI tools
+
+https://type-scale.com/ <br />
+https://www.toptal.com/designers/subtlepatterns/ <br />
+http://www.uigoodies.com/ <br />
+https://www.unscreen.com/ <br />
+https://www.musicbed.com/
