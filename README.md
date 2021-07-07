@@ -35,17 +35,18 @@ My ultimate resources for development usage.
 
 ## multimedia resources
 
-https://unsplash.com/ <br />
-https://www.pexels.com/ <br />
-https://mixkit.co/ <br />
-https://undraw.co/ <br />
-https://iradesign.io/ <br />
-https://pngtree.com/ <br />
-https://www.drawkit.io/ <br />
-https://products.ls.graphics/paaatterns/ <br />
-https://www.freepik.com/ <br />
-https://www.videezy.com/ <br />
-https://icons8.com/illustrations
+- [unsplash](https://unsplash.com/)
+- [pexels](https://www.pexels.com/)
+- [mixkit](https://mixkit.co/)
+- [undraw](https://undraw.co/)
+- [iradesign](https://iradesign.io/)
+- [pngtree](https://pngtree.com/)
+- [drawkit](https://www.drawkit.io/)
+- [paaatterns](https://products.ls.graphics/paaatterns/)
+- [freepik](https://www.freepik.com/)
+- [videezy](https://www.videezy.com/)
+- [icons8 illustrations](https://icons8.com/illustrations)
+
 
 ## UI tools
 
