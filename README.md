@@ -49,7 +49,13 @@
 
 ## API
 
-- (overapi)[https://overapi.com/]
+- [overapi](https://overapi.com/)
+- [jsonplaceholder](https://jsonplaceholder.typicode.com/)
+- [github users](https://api.github.com/users)
+- [breakingbadapi](https://breakingbadapi.com/documentation)
+- [themoviedb](https://developers.themoviedb.org/3/getting-started/introduction)
+- [nasa](https://api.nasa.gov/)
+- [restcountries](https://restcountries.eu/)
 
 ## colors
 
