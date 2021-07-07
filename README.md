@@ -98,3 +98,5 @@
 ## Miscellaneous
 
 - [caniuse](https://caniuse.com/)
+- [time travel](https://web.archive.org/)
+- [ipregistry](https://ipregistry.co/)
