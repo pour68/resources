@@ -5,34 +5,33 @@ My ultimate resources for development usage.
 
 - [html validation](https://validator.w3.org/)
 - [imagemap](https://image-map.weebly.com)
-- [cut image](https://www.imgonline.com.ua/eng/cut-photo-into-pieces.php)
+- [image cutter](https://www.imgonline.com.ua/eng/cut-photo-into-pieces.php)
 - [fontpair](https://www.fontpair.co/)
 - [pagecloud](https://www.pagecloud.com/blog/best-google-fonts-pairings)
 
 # CSS
 
-https://www.blobmaker.app/ <br />
-https://svgbackgrounds.com/ <br />
-https://glassmorphism.com/ <br />
-https://neumorphism.io/#e0e0e0 <br />
-https://www.colorzilla.com/gradient-editor/ <br />
-https://9elements.github.io/fancy-border-radius/#51.28.39.30--. <br />
-https://www.svgwaves.io/ <br />
-https://www.svgwaves.io/ <br />
-https://www.cssfiltergenerator.com/ <br />
-http://www.justinaguilar.com/animations/# <br />
-https://grid.malven.co/ <br />
-http://www.gradientsguru.com/ <br />
-https://jitter.video/
+- [blobmaker](https://www.blobmaker.app/)
+- [background svg](https://svgbackgrounds.com/)
+- [glassmorphism](https://glassmorphism.com/)
+- [neomorphism](https://neumorphism.io/)
+- [gradient generator](https://www.colorzilla.com/gradient-editor/)
+- [fancy borderradius](https://9elements.github.io/fancy-border-radius/)
+- [waves svg](https://www.svgwaves.io/)
+- [filter generator](https://www.cssfiltergenerator.com/)
+- [animation](http://www.justinaguilar.com/animations/#)
+- [grid](https://grid.malven.co/)
+- [gradient](http://www.gradientsguru.com/)
+- [jitter](https://jitter.video/)
 
 ## inspiration resources
 
-https://dribbble.com/ <br />
-https://www.uidesigndaily.com/ <br />
-https://www.uplabs.com/ <br />
-https://www.frontendmentor.io/ <br />
-https://www.awwwards.com/ <br />
-https://www.pinterest.com/ <br />
+- [dribble](https://dribbble.com/)
+- [ui design daily](https://www.uidesigndaily.com/)
+- [uplabs](https://www.uplabs.com/)
+- [frontendmentor](https://www.frontendmentor.io/)
+- [awwwards](https://www.awwwards.com/)
+- [pinterest](https://www.pinterest.com/)
 
 ## multimedia resources
 
