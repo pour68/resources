@@ -3,11 +3,11 @@ My ultimate resources for development usage.
 
 ## HTML
 
-https://validator.w3.org/ <br />
-https://image-map.weebly.com <br />
-https://www.imgonline.com.ua/eng/cut-photo-into-pieces.php <br />
+- [html validation](https://validator.w3.org/)
+- [imagemap](https://image-map.weebly.com)
+- [cut image](https://www.imgonline.com.ua/eng/cut-photo-into-pieces.php)
 - [fontpair](https://www.fontpair.co/)
-https://www.pagecloud.com/blog/best-google-fonts-pairings
+- [pagecloud](https://www.pagecloud.com/blog/best-google-fonts-pairings)
 
 # CSS
 
