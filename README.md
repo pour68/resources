@@ -1,5 +1,4 @@
-# resources
-My ultimate resources for development usage.
+![seo](https://github.com/pour68/resources/blob/main/seo.jpg?raw=true)
 
 ## HTML
 
