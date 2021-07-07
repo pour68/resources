@@ -24,6 +24,13 @@
 - [gradient](http://www.gradientsguru.com/)
 - [jitter](https://jitter.video/)
 
+## Typography
+
+- [fontyab](https://www.fontyab.com/)
+- [google fonts](https://fonts.google.com/)
+- [adobe fonts](https://fonts.adobe.com/fonts)
+- [fontsquirrel](https://www.fontsquirrel.com/)
+
 ## inspiration resources
 
 - [dribble](https://dribbble.com/)
