@@ -64,3 +64,14 @@
 ## Converters
 - [jpeg to webp converter](https://convertio.co/jpeg-webp/)
 - [decimal to binary](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
+
+## Logo design resources
+- [logoed](http://www.logoed.co.uk/)
+- [companyfolders](https://www.companyfolders.com/logo-design-services)
+- [underconsideration](https://www.underconsideration.com/brandnew/)
+- [logolounge](https://www.logolounge.com/)
+- [logodesignlove](https://www.logodesignlove.com/)
+- [logomoose](https://www.logomoose.com/)
+- [logogala](http://www.logogala.com/)
+- [logopond](https://logopond.com/)
+- [logospire](https://logospire.com/)
