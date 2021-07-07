@@ -1,6 +1,28 @@
 # resources
 My ultimate resources for development usage.
 
+## HTML
+
+https://validator.w3.org/ <br />
+image-map.weebly.com <br />
+https://www.imgonline.com.ua/eng/cut-photo-into-pieces.php
+
+# CSS
+
+https://www.blobmaker.app/ <br />
+https://svgbackgrounds.com/ <br />
+https://glassmorphism.com/ <br />
+https://neumorphism.io/#e0e0e0 <br />
+https://www.colorzilla.com/gradient-editor/ <br />
+https://9elements.github.io/fancy-border-radius/#51.28.39.30--. <br />
+https://www.svgwaves.io/ <br />
+https://www.svgwaves.io/ <br />
+https://www.cssfiltergenerator.com/ <br />
+http://www.justinaguilar.com/animations/# <br />
+https://grid.malven.co/ <br />
+http://www.gradientsguru.com/ <br />
+https://jitter.video/
+
 ## inspiration resources
 
 https://dribbble.com/ <br />
@@ -22,6 +44,7 @@ https://www.drawkit.io/ <br />
 https://products.ls.graphics/paaatterns/ <br />
 https://www.freepik.com/ <br />
 https://www.videezy.com/ <br />
+https://icons8.com/illustrations
 
 ## UI tools
 
@@ -33,4 +56,5 @@ https://www.musicbed.com/ <br />
 https://pfpmaker.com/results
 
 # Converters
+https://convertio.co/jpeg-webp/ <br />
 https://www.rapidtables.com/convert/number/decimal-to-binary.html
