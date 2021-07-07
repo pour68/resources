@@ -31,7 +31,7 @@
 - [adobe fonts](https://fonts.adobe.com/fonts)
 - [fontsquirrel](https://www.fontsquirrel.com/)
 
-## inspiration resources
+## Inspiration Resources
 
 - [dribble](https://dribbble.com/)
 - [ui design daily](https://www.uidesigndaily.com/)
@@ -40,7 +40,7 @@
 - [awwwards](https://www.awwwards.com/)
 - [pinterest](https://www.pinterest.com/)
 
-## multimedia resources
+## Multimedia Resources
 
 - [unsplash](https://unsplash.com/)
 - [pexels](https://www.pexels.com/)
@@ -64,12 +64,12 @@
 - [nasa](https://api.nasa.gov/)
 - [restcountries](https://restcountries.eu/)
 
-## colors
+## Colors
 
 - [coolors](https://coolors.co/)
 - [happyhues](https://www.happyhues.co/)
 
-## UI tools
+## UI Tools
 
 - [typescale](https://type-scale.com/)
 - [subtlepatterns](https://www.toptal.com/designers/subtlepatterns/)
@@ -83,7 +83,7 @@
 - [jpeg to webp converter](https://convertio.co/jpeg-webp/)
 - [decimal to binary](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
 
-## Logo design resources
+## Logo Design Resources
 - [logoed](http://www.logoed.co.uk/)
 - [companyfolders](https://www.companyfolders.com/logo-design-services)
 - [underconsideration](https://www.underconsideration.com/brandnew/)
@@ -94,6 +94,6 @@
 - [logopond](https://logopond.com/)
 - [logospire](https://logospire.com/)
 
-## miscellaneous
+## Miscellaneous
 
 - [caniuse](https://caniuse.com/)
