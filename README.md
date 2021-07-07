@@ -50,13 +50,14 @@ My ultimate resources for development usage.
 
 ## UI tools
 
-https://type-scale.com/ <br />
-https://www.toptal.com/designers/subtlepatterns/ <br />
-http://www.uigoodies.com/ <br />
-https://www.unscreen.com/ <br />
-https://www.musicbed.com/ <br />
-https://pfpmaker.com/results
+- [typescale](https://type-scale.com/)
+- [subtlepatterns](https://www.toptal.com/designers/subtlepatterns/)
+- [uigoodies](http://www.uigoodies.com/)
+- [unscreen](https://www.unscreen.com/)
+- [musicbed](https://www.musicbed.com/)
+- [profile maker](https://pfpmaker.com/results)
+
 
 # Converters
-https://convertio.co/jpeg-webp/ <br />
-https://www.rapidtables.com/convert/number/decimal-to-binary.html
+- [jpeg to webp converter](https://convertio.co/jpeg-webp/)
+- [decimal to binary](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
