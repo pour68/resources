@@ -68,6 +68,17 @@
 
 - [coolors](https://coolors.co/)
 - [happyhues](https://www.happyhues.co/)
+- [paletton](https://paletton.com/#uid=c5a2m002P0kkmmu9PyUf3rLp-hfv0bN)
+- [colormind](http://colormind.io/)
+- [noeldelgado](https://noeldelgado.github.io/shadowlord/#ce1e87)
+- [flatuicolors](https://flatuicolors.com/)
+- [colors muz](https://colors.muz.li/)
+- [materialui](https://materialui.co/colors)
+- [materialpalette](https://www.materialpalette.com/)
+- [tailwindcss colors](https://tailwindcss.com/docs/customizing-colors)
+- [bulma colors](https://bulma.io/documentation/overview/colors/)
+- [colourlovers](https://www.colourlovers.com/palettes)
+- [picular nature color](https://picular.co/)
 
 ## UI Tools
 
