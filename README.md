@@ -1,4 +1,4 @@
-![seo](https://github.com/pour68/resources/blob/main/seo.jpg?raw=true)
+![seo](https://github.com/pour68/resources/blob/main/images/seo.jpg?raw=true)
 
 ## HTML
 
