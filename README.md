@@ -58,7 +58,7 @@
 - [png resource favpng](https://favpng.com/)
 - [png resource purepng](https://purepng.com/)
 - [png resource pngmart](https://www.pngmart.com/)
-- [png resource]()
+- [png resource freepngs](https://www.freepngs.com/)
 
 ## Mockup
 
