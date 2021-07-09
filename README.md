@@ -53,6 +53,11 @@
 - [freepik](https://www.freepik.com/)
 - [videezy](https://www.videezy.com/)
 - [icons8 illustrations](https://icons8.com/illustrations)
+- [gif generator](https://giphy.com/create/gifmaker)
+
+## Mockup
+
+- [screen mockups](https://dimmy.club/)
 
 ## API
 
@@ -94,6 +99,7 @@
 - [jpeg to webp converter](https://convertio.co/jpeg-webp/)
 - [decimal to binary](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
 - [convert image to txt](https://www.onlineocr.net/)
+- [convert image formats](https://www.media.io/)
 
 ## Logo Design Resources
 - [logoed](http://www.logoed.co.uk/)
