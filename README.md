@@ -54,6 +54,11 @@
 - [videezy](https://www.videezy.com/)
 - [icons8 illustrations](https://icons8.com/illustrations)
 - [gif generator](https://giphy.com/create/gifmaker)
+- [png resource klipartz](https://www.klipartz.com/)
+- [png resource favpng](https://favpng.com/)
+- [png resource purepng](https://purepng.com/)
+- [png resource pngmart](https://www.pngmart.com/)
+- [png resource]()
 
 ## Mockup
 
