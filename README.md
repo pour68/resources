@@ -52,6 +52,7 @@
 - [paaatterns](https://products.ls.graphics/paaatterns/)
 - [freepik](https://www.freepik.com/)
 - [videezy](https://www.videezy.com/)
+- [video templates](https://invideo.io/)
 - [icons8 illustrations](https://icons8.com/illustrations)
 - [gif generator](https://giphy.com/create/gifmaker)
 - [png resource klipartz](https://www.klipartz.com/)
