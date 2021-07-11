@@ -65,6 +65,10 @@
 
 - [screen mockups](https://dimmy.club/)
 
+## Figma
+
+- [pen tool practices](https://www.joshuapomeroy.com/downloads)
+
 ## API
 
 - [overapi](https://overapi.com/)
