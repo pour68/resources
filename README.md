@@ -69,6 +69,18 @@
 
 - [pen tool practices](https://www.joshuapomeroy.com/downloads)
 
+## Icons
+
+- [fontawesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
+- [boxicons](https://boxicons.com/)
+- [icofont](https://icofont.com/)
+- [heroicons](https://heroicons.com/)
+- [ionic](https://ionic.io/ionicons)
+
+## 3D shapes
+
+- [3D-shape resource](https://www.shapefest.com/)
+
 ## API
 
 - [overapi](https://overapi.com/)
