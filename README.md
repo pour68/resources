@@ -39,6 +39,7 @@
 - [frontendmentor](https://www.frontendmentor.io/)
 - [awwwards](https://www.awwwards.com/)
 - [pinterest](https://www.pinterest.com/)
+- [ui8](https://ui8.net/)
 
 ## Multimedia Resources
 
