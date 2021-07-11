@@ -49,6 +49,8 @@
 - [iradesign](https://iradesign.io/)
 - [pngtree](https://pngtree.com/)
 - [drawkit](https://www.drawkit.io/)
+- [illustrations](https://lukaszadam.com/illustrations)
+- [humaaans](https://www.humaaans.com/)
 - [paaatterns](https://products.ls.graphics/paaatterns/)
 - [freepik](https://www.freepik.com/)
 - [videezy](https://www.videezy.com/)
