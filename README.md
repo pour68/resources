@@ -69,6 +69,8 @@
 ## Mockup
 
 - [screen mockups](https://dimmy.club/)
+- [anthonyboyd mockups](https://www.anthonyboyd.graphics/mockups/)
+- [mockup generator](https://mockupbro.com/mockup/shopping-bag-perspective)
 
 ## Figma
 
