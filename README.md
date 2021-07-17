@@ -66,6 +66,10 @@
 - [png resource freepngs](https://www.freepngs.com/)
 - [character](https://graphicmama.com/)
 
+## Tools
+
+- [compressor](https://compressor.io/)
+
 ## Mockup
 
 - [screen mockups](https://dimmy.club/)
