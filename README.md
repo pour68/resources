@@ -40,6 +40,7 @@
 - [awwwards](https://www.awwwards.com/)
 - [pinterest](https://www.pinterest.com/)
 - [ui8](https://ui8.net/)
+- [pelleart](https://pelleart.ir/)
 
 ## Multimedia Resources
 
