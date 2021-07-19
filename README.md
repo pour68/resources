@@ -67,6 +67,7 @@
 - [png resource freepngs](https://www.freepngs.com/)
 - [character](https://graphicmama.com/)
 - [coolbackgrounds](https://coolbackgrounds.io/)
+- [freefrontend](https://freefrontend.com/css-background-patterns/)
 
 ## Tools
 
