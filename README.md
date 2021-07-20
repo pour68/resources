@@ -68,10 +68,12 @@
 - [character](https://graphicmama.com/)
 - [coolbackgrounds](https://coolbackgrounds.io/)
 - [freefrontend](https://freefrontend.com/css-background-patterns/)
+- [3D figures](https://www.isometriclove.com/)
 
 ## Tools
 
 - [compressor](https://compressor.io/)
+- [bg remover](https://www.slazzer.com/upload)
 
 ## Mockup
 
