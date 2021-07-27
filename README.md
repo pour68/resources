@@ -84,6 +84,7 @@
 ## Figma
 
 - [pen tool practices](https://www.joshuapomeroy.com/downloads)
+- [figma resources](https://github.com/pour68/resources)
 
 ## Icons
 
