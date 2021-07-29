@@ -69,6 +69,7 @@
 - [coolbackgrounds](https://coolbackgrounds.io/)
 - [freefrontend](https://freefrontend.com/css-background-patterns/)
 - [3D figures](https://www.isometriclove.com/)
+- [pattern](https://www.transparenttextures.com/)
 
 ## Tools
 
