@@ -165,3 +165,6 @@
 - [sound and vocal seperator](https://www.lalal.ai/)
 - [vocalremover](https://vocalremover.org/)
 - [social name checker](https://namechk.com/)
+
+# Crypto currency
+- [nano pool for exploit](https://nanopool.org)
